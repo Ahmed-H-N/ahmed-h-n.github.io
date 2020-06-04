@@ -1,0 +1,17 @@
+# Sample Authors
+# Remove file or replace with your own
+
+ahmed_hamdy: 
+  name : Ahmed Hamdy
+  picture : /assets/images/blog-author.jpg
+  twitter : https://twitter.com/AhmedH_N
+  links:
+  - title: Twitter
+    url: https://twitter.com/AhmedH_N
+    icon: fab fa-twitter-square
+  - title: Linked In
+    url: https://instagram.com/username
+    icon: fab fa-linkedin
+  - title: GitHub
+    url: https://github.com/Ahmed-H-N
+    icon: fab fa-github-square
