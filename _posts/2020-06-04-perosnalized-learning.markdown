@@ -38,7 +38,7 @@ The main power of AI comes from its ability to give answers to questions that ne
 - • What makes him/her **focus** or get distracted?
 - • Is it better for this student to be an **early bird or** a **night owl**?
 
-The answer to these questions for each individual is, with no doubt, of a great value that can make him/her get the most out of his learning.
+The answers to these questions for each individual is, with no doubt, of a great value that can make him/her get the most out of his learning.
 
 ## Effects on Society
 Any method that improves the learning experience has a positive effect on society. Using AI, however, has its unique positive effects. Let's see some of them:
@@ -52,7 +52,7 @@ Any method that improves the learning experience has a positive effect on societ
 In general, when education is improved, this leads to higher public awareness and faster production by countries which makes for better economy in both short and long terms.
 
 ## When Will We See These Effects?
-It is already happening on small scales. Chat pots are already used in some schools. Also administrative tasks are being automated in some universities. But to see the results that make us "WOW", we need to wait a little bit more. The obstacle that hinders AI algorithms is the lack of data. Data is like oxygen to AI models, and without it, AI algorithms cannot do its best. unlike applications which have data available right away in mass quantities such as images and sounds, Personal data required for AI application in education is not that much available. So we will have to wait (or better) deliberately collect these data so that AI wheel starts cycling.
+It is already happening on small scales. Chat bots are already used in some schools. Also administrative tasks are being automated in some universities. But to see the results that make us "WOW", we need to wait a little bit more. The obstacle that hinders AI algorithms is the lack of data. Data is like oxygen to AI models, and without it, AI algorithms cannot do its best. unlike applications which have data available right away in mass quantities such as images and sounds, Personal data required for AI application in education is not that much available. So we will have to wait (or better) deliberately collect these data so that AI wheel starts cycling.
 
 ## In Conclusion ...
 AI is changing the world rapidly in an unprecedented way in human history. A newly born baby today will almost certainly have different educational system than that was taken by his/her parents.
