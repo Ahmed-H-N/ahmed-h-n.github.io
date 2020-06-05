@@ -7,7 +7,7 @@ tags : [Blog]
 author: ahmed_hamdy
 
 share : true
-permalink: /personalized-learning2
+permalink: /about-my-blog
 ---
 
 I made this blog to share my thoughts on Machine Learning, Software Engineering, Natural Language Processing, and Arabic Language.
